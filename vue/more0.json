@@ -1,4 +1,3 @@
-[
 {
     "name" : "Dana",
     "userImage": "https://cdn-icons-png.flaticon.com/512/4195/4195620.png",
@@ -8,14 +7,4 @@
     "liked": false,
     "content": "더보기111",
     "filter": "perpetua"
-  },
-{
-    "name" : "Daniel",
-    "userImage": "https://cdn-icons-png.flaticon.com/512/4195/4195620.png",
-    "postImage": "https://mblogthumb-phinf.pstatic.net/MjAxOTEyMDdfMyAg/MDAxNTc1NjkzMTAyODEx.OzeXWrjo5920znqNAwHfMWDrb_frRVXe02Nc235BHg0g.HWEfMpAKstVml8LbSz7yIPoZywBIdD54ct7AJsOMirEg.JPEG.eazil1/KakaoTalk_20191207_132905140_01.jpg?type=w800",
-    "likes": 111,
-    "date": "22.06.25.",
-    "liked": false,
-    "content": "더보기111",
-    "filter": "perpetua"
-  }]
+  }
