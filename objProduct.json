@@ -1,0 +1,34 @@
+[
+  {
+  "id": 0,
+  "title": "새우깡",
+  "image": "http://image.nongshim.com/non/pro/1594682430086.jpg",
+  "grades":5,
+  "comment": 12345,
+  "price": 1500
+},
+{
+  "id": 1,
+  "title": "매운 새우깡",
+  "grades":3.5,
+  "image":"http://image.nongshim.com/non/pro/1594682479225.jpg",
+  "comment": 22009,
+  "price": 2600
+},
+{
+  "id": 2,
+  "title": "새우깡 블랙",
+  "grades":2.5,
+  "image":"http://image.nongshim.com/non/pro/1634112310625.jpg",
+  "comment": 30721,
+  "price": 3700
+},
+{
+  "id": 3,
+  "title": "쌀 새우깡",
+  "grades":5,
+  "image": "http://image.nongshim.com/non/pro/1594682456249.jpg",
+  "comment": 42195,
+  "price": 2100
+}
+]
